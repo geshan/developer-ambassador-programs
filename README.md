@@ -1,2 +1,4 @@
-# developer-ambassador-programs
+# Developer ambassador programs
+
 A list of developer ambassador programs run by multiple companies
+
