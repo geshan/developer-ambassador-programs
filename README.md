@@ -1,28 +1,28 @@
 # Developer ambassador programs
 
-A list of developer ambassador programs run by multiple companies.
+A list of developer ambassador programs run by various companies.
 
 ## What is a developer ambassador program?
 
-A developer ambassador program is a program run by a company to promote it products or services by representative (but not employees) of that organization. You as a member of any developer ambassador program are expected to produce technical content in the form of:
+A developer ambassador program is a program run by a company to promote its products or services by representatives (but not employees) of that organization. You as a member of any developer ambassador program are expected to produce technical content in the form of:
 
 * text (blog posts)
 * audio (podcasts)
-* video (youtube videos)
+* video (YouTube videos)
 * public speaking (talks at meetups or conferences), and
-* open source contribution to relevant respositories.
+* open source contribution to relevant repositories.
 
 ### Benefits of joining a developer ambassador program
 
 Those contributions are not paid but you might get other benefits for doing it. The benefits might include
 
 * recognition and personal branding
-* access to features to product and services before the general users
-* cover travel and/or accomodation to events where you speak about the company's products
-* special or free access to the compay's products or services
+* access to features of products and services before the general users
+* cover travel and/or accommodation to events where you speak about the company's products
+* special or free access to the company's products or services
 * credits to use the company's products or services
 
-Below are some of the develper ambassdor programs in alphabetical order (if you are looking for student only programs search for `students only`):
+Below are some of the developer ambassador programs in alphabetical order (if you are looking for student only programs search for `students only`):
 
 ---
 
