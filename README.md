@@ -45,6 +45,7 @@ Below are some of the developer ambassador programs in alphabetical order (if yo
 ## G - L
 
 * [GitHub Campus Experts](https://education.github.com/experts) - Campus Experts are student leaders that strive to build diverse and inclusive spaces to learn skills, share their experiences, and build projects together. * For students only.
+* [GitHub Stars](https://stars.github.com/) - The GitHub Stars program offers impactful developers an opportunity to showcase their work, reach more people, and shape the future of GitHub. If you know an inspiring community leader, we want to hear about it.
 * [GitLab Heroes](https://about.gitlab.com/community/heroes/) - GitLab Heroes engages, supports, connects, and recognizes members of the wider GitLab community who make outstanding contributions to GitLab and our community around the globe.
 * [GitKraken Ambassador Program](https://www.gitkraken.com/ambassador) - GitKraken Ambassadors are a group of professionals from all around the world who love sharing their knowledge about Git and the GitKraken Git Client. This program will help you increase your software development knowledge, build your professional skills, and provide value to the global tech community.
 * [Google Cloud Champion Innovators](https://cloud.google.com/innovators/champions) - Champion Innovators are a global network of more than 500 professionals, nominated by Googlers, who are technical experts in Google Cloud products and services. Each Champion specializes in one of nine different technical categories.
@@ -69,6 +70,7 @@ Below are some of the developer ambassador programs in alphabetical order (if yo
 * [Postman Student Programs](https://www.postman.com/student-program/) - Discover Postman's programs designed to promote API literacy amongst students and educators. They have student expert, student leader and classromm programs. * For students only.
 
 ## S - Z
+
 * [SAS® Student Ambassador Program](https://www.sas.com/en_nz/learn/academic-programs/resources/student-series/student-ambassador-program.html) - It selects talented students from around the world who excel at using SAS software to create innovative solutions. SAS ambassadors receive a travel stipend and increased visibility in the SAS community. Useful for students pursuing careers in data analytics and related fields. * For students only.
 * [Stack Overflow Student Ambassador](https://students.stackoverflow.co/) - Stack Overflow is looking for its first cohort of Student Ambassadors, leaders who will represent us on campus, partnering with us to bring more of their classmates onto our platform, and taking a leadership role to complete challenges, earn rewards, and help us plan what future semesters will look like. * For students only.
 * [Streamlit Advocates](https://streamlit.io/community/advocates) - If you're a Streamlit superfan who enjoys creating and sharing content, then the Streamlit Advocate program is perfect for you. Get ideas, access to training materials, and one-on-one support to help you create high-quality content and videos that your audience will love.
