@@ -19,6 +19,7 @@ Those contributions are not paid, but you might get other benefits from doing it
 
 * recognition and personal branding
 * access to features of products and services before the general public
+* invitation and access to the company's special or developer events
 * cover travel and/or accommodation to events where you speak about the company's products
 * special or free access to the company's products or services
 * credits to use the company's products or services
