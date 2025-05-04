@@ -9,15 +9,16 @@ A developer ambassador program is a program a company runs to promote its produc
 * text (blog posts)
 * audio (podcasts)
 * video (YouTube videos)
-* public speaking (talks at meetups or conferences), and
-* open source contribution to relevant repositories.
+* public speaking (talks at meetups or conferences)
+* Open source contribution to relevant repositories, and
+* helping the community by commenting or answering questions on platforms like StackOverflow
 
 ### Benefits of joining a developer ambassador program
 
 Those contributions are not paid, but you might get other benefits from doing it. The benefits might include
 
 * recognition and personal branding
-* access to features of products and services before the general users
+* access to features of products and services before the general public
 * cover travel and/or accommodation to events where you speak about the company's products
 * special or free access to the company's products or services
 * credits to use the company's products or services
@@ -56,6 +57,7 @@ Below are some of the developer ambassador programs in alphabetical order (if yo
 * [Google Women Tech Makers Ambassador](https://developers.google.com/womentechmakers) - Google’s Women Techmakers program provides visibility, community, and resources for women in technology. * Women only and you can apply to be a WTM Ambassador.
 * [HashiCorp Ambassadors](https://www.hashicorp.com/ambassadors) - For individuals who are actively sharing knowledge about HashiCorp tools through content creation, local events and productive, thoughtful feedback, while advocating for and adhering to the HashiCorp Principles.
 * [Intel® Student Ambassador Programs](https://www.intel.com/content/www/us/en/developer/community/ambassadors.html) - Undergraduate and graduate students who are passionate about technology and working with developer communities can participate in these programs to promote learning, sharing, and collaboration. * For students only.
+* [Ionic Developer Expert](https://ionic.io/developer-experts)—The Ionic Developer Experts program is a group of technology experts, influencers, and educators who are knowledgeable about the Ionic ecosystem, are active leaders in the space, and contribute to the wider developer ecosystem.
 * [Kong Champions](https://konghq.com/community/kong-champions) - Kong Champions are frequent contributors who play a key role in developing and engaging with Kong’s community all around the globe. You will often find them sharing their expertise and passion through forum discussions, blogging, speaking at local events and at our monthly User Calls.
 
 ## M - R
