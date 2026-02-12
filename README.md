@@ -4,7 +4,7 @@ A list of developer ambassador programs run by various companies.
 
 ## What is a developer ambassador program?
 
-A developer ambassador program is a program a company runs to promote its products or services by that organization's representatives (but not employees). You, as a member of any developer ambassador program, are expected to produce technical content in the form of:
+A developer ambassador program is a company-run program that promotes its products or services through its representatives (but not employees). You, as a member of any developer ambassador program, are expected to produce technical content in the form of:
 
 * text (blog posts)
 * audio (podcasts)
@@ -15,7 +15,7 @@ A developer ambassador program is a program a company runs to promote its produc
 
 ### Benefits of joining a developer ambassador program
 
-Those contributions are not paid, but you might get other benefits from doing it. The benefits might include
+Those contributions are unpaid, but you might get other benefits from doing so. The benefits might include
 
 * recognition and personal branding
 * access to features of products and services before the general public
@@ -39,6 +39,7 @@ Below are some of the developer ambassador programs in alphabetical order (if yo
 * [Cloud Native Ambassadors - CNCF](https://www.cncf.io/people/ambassadors/) - Cloud Native Ambassadors (CNAs) are credible advocates for the cloud native ecosystem, driven by their passion for CNCF technologies and projects, as well as furthering the mission of open source.
 * [Cloudinary Ambassadors](https://cloudinary.com/ambassadors) - An Ambassador has achieved high-level mastery of digital media technologies, is passionate about sharing their knowledge, and advocates for a better visual web.
 * [Commudle Experts](https://www.commudle.com/experts-program) - A Commudle expert can be a student or a professional, a freelancer, full time techie, DevRel or a Dev Advocate. Your qualification or location doesn't matter, your work does!
+* [Cursor Ambassador Program](https://cursor.com/ambassadors) - Become a Cursor Ambassador. Join our community of developers who help shape the future of AI-powered coding. Cursor Ambassadors empower the community that makes our ecosystem vibrant and collaborative.
 * [Cypress Ambassadors](https://www.cypress.io/ambassadors) - Ambassadors go the extra mile—sharing their knowledge through blog posts, articles, webcasts, conferences, meetups, and other events.
 * [DeepLearning.ai event Ambassador](https://www.deeplearning.ai/ambassador/) - Our Event Ambassadors are enthusiastic about helping more cities become Al hubs and inspiring their local community to break into Al. Help build the global Al community by representing your area.
 * [DigitalOcean's Navigators](https://www.digitalocean.com/community/pages/digitalocean-navigators) - Supports and rewards people who create content, code, and/or community engagements related to DigitalOcean’s products and services.
