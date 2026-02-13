@@ -75,6 +75,9 @@ Below are some of the developer ambassador programs in alphabetical order (if yo
 * [OutSystems Ambassador](https://www.outsystems.com/ambassador-program/) - OutSystems Ambassadors are recognized and celebrated for their leadership and innovations through the power of software. Our members enjoy VIP access to OutSystems experts and other customers, and are extending their influence amongst the industry and beyond as thought leaders.
 * [Postman Supernovas](https://www.postman.com/company/supernovas-program/) - Supernovas are leaders who are passionate about APIs, testing, and creating. Contributing in a variety of ways including organizing and running meetups, sharing their knowledge at workshops and at events, Supernovas are ambassadors who are a part of Postman's community that help educate and empower others.
 * [Postman Student Programs](https://www.postman.com/student-program/) - Discover Postman's programs designed to promote API literacy amongst students and educators. They have student expert, student leader and classromm programs. * For students only.
+* [PyTorch Ambassador](https://pytorch.org/programs/ambassadors/) -
+The PyTorch Ambassador Program highlights and supports passionate community leaders who educate, advocate for, and build with PyTorch in meaningful ways.
+Ambassadors help grow PyTorch Foundation projects (e.g., PyTorch and vLLM) around the world by organizing events, creating educational content, mentoring new users, and contributing to the open source ecosystem.
 
 ## S - Z
 
