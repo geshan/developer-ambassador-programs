@@ -30,6 +30,7 @@ Below are some of the developer ambassador programs in alphabetical order (if yo
 
 ## A - F
 
+* [Appwrite Heroes](https://aaif.io/learn-more-about-the-program) - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Ambassadors program. This is an elite cohort of practitioners helping the world understand, use, and contribute to AAIF-hosted projects.
 * [Appwrite Heroes](https://appwrite.io/heroes) - If you love building, writing, speaking, and helping other developers build with Appwrite, help us support you by joining the Appwrite Heroes program and becoming a leader in our developer community.
 * [Auth0 Ambassador](https://auth0.com/ambassador-program) - Join us in our mission to advocate for the developer by sharing knowledge on identity and security related topics through meetups, conferences, written content, webinars and other events as an Auth0 Ambassador.
 * [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/) - The AWS Community Builders program offers technical resources, education, and networking opportunities to AWS technical enthusiasts and emerging thought leaders who are passionate about sharing knowledge and connecting with the technical community.
