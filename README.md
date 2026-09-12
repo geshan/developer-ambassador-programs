@@ -84,6 +84,7 @@ Below are some of the developer ambassador programs in alphabetical order (if yo
 * [PyTorch Ambassador](https://pytorch.org/programs/ambassadors/) -
 The PyTorch Ambassador Program highlights and supports passionate community leaders who educate, advocate for, and build with PyTorch in meaningful ways.
 Ambassadors help grow PyTorch Foundation projects (e.g., PyTorch and vLLM) around the world by organizing events, creating educational content, mentoring new users, and contributing to the open source ecosystem.
+* [Qualcomm Student Ambassador Program](https://www.qualcomm.com/research/university-relations/qualcomm-student-ambassador-program) - An invite-only program empowering university students to develop innovative projects using Qualcomm developer platforms, supported by mentorship, technical projects, campus events, and opportunities to engage with the Qualcomm ecosystem. * For students only.
 
 ## S - Z
 
