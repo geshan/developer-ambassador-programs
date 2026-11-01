@@ -50,6 +50,7 @@ Below are some of the developer ambassador programs in alphabetical order (if yo
 * [Devin.ai Ambassador](https://devin.ai/community) - Lead the Devin community in your city. Host events, create content, and shape what comes next.
 * [DigitalOcean's Navigators](https://www.digitalocean.com/community/pages/digitalocean-navigators) - Supports and rewards people who create content, code, and/or community engagements related to DigitalOcean’s products and services.
 * [Docker Captains](https://www.docker.com/community/captains/) - Docker Captains are technical experts and passionate community builders who drive Docker’s ecosystem forward. As active contributors and advocates, they share Docker knowledge and help shape Docker products.
+* [ElevenLabs Ambassador Program](https://elevenlabs.io/ambassador) - Help the world discover what is possible with ElevenLabs by joining the ElevenLabs Ambassador Program. Create content, host events, and champion ElevenLabs in your community. Has two tracks: Community Builder and Content Creator.
 * [Figma user group leader](https://friends.figma.com/become-a-user-group-leader/) - Leaders are the heart and soul of our global community. They go above and beyond to give back to the Figma community by passionately running our Friends of Figma groups, helping people to connect and learn from one another.
 
 ## G - L
